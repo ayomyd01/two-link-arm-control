@@ -1,5 +1,6 @@
 # Two-link arm balance control
 Pole placement vs LQR vs PD/PID for a two-link arm in MATLAB (simulation)
+
 Simulation of an upright two-link arm (inverted double pendulum, motor at each joint). I compared pole placement, LQR and joint-wise PD, then tested what happens when the motors are limited to 5 N·m.
 
 ## Model
