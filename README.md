@@ -16,8 +16,6 @@ Simulation of an upright two-link arm (inverted double pendulum, motor at each j
 
 ## Results (linear model, 0.1 rad starting tilt)
 | Controller | Settling time (s) | Overshoot (%) | Peak torque (N·m) |
-
-| Controller | Settling time (s) | Overshoot (%) | Peak torque (N·m) |
 |---|---|---|---|
 | Pole placement | 2.12 | 3.98 | 4.21 |
 | LQR | 1.59 | 0.01 | 4.97 |
